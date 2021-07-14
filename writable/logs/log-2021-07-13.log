@@ -7,3 +7,133 @@ CRITICAL - 2021-07-13 00:18:44 --> Invalid file: landing_page.php
 #5 C:\xampp\htdocs\citypanther_landing\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
 #6 C:\xampp\htdocs\citypanther_landing\public\index.php(37): CodeIgniter\CodeIgniter->run()
 #7 {main}
+CRITICAL - 2021-07-13 21:10:04 --> Class 'CodeIgniter\Cache\CacheFactory' not found
+#0 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(263): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+#1 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(192): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#2 /opt/lampp/htdocs/citypanther_landing/system/Config/Services.php(105): CodeIgniter\Config\BaseService::getSharedInstance('cache', NULL)
+#3 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(263): CodeIgniter\Config\Services::cache()
+#4 /opt/lampp/htdocs/citypanther_landing/system/Common.php(74): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#5 /opt/lampp/htdocs/citypanther_landing/system/CodeIgniter.php(651): cache()
+#6 /opt/lampp/htdocs/citypanther_landing/system/CodeIgniter.php(321): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+#7 /opt/lampp/htdocs/citypanther_landing/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-07-13 21:10:06 --> Class 'CodeIgniter\Cache\CacheFactory' not found
+#0 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(263): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+#1 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(192): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#2 /opt/lampp/htdocs/citypanther_landing/system/Config/Services.php(105): CodeIgniter\Config\BaseService::getSharedInstance('cache', NULL)
+#3 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(263): CodeIgniter\Config\Services::cache()
+#4 /opt/lampp/htdocs/citypanther_landing/system/Common.php(74): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#5 /opt/lampp/htdocs/citypanther_landing/system/CodeIgniter.php(651): cache()
+#6 /opt/lampp/htdocs/citypanther_landing/system/CodeIgniter.php(321): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+#7 /opt/lampp/htdocs/citypanther_landing/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-07-13 21:10:06 --> Class 'CodeIgniter\Cache\CacheFactory' not found
+#0 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(263): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+#1 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(192): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#2 /opt/lampp/htdocs/citypanther_landing/system/Config/Services.php(105): CodeIgniter\Config\BaseService::getSharedInstance('cache', NULL)
+#3 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(263): CodeIgniter\Config\Services::cache()
+#4 /opt/lampp/htdocs/citypanther_landing/system/Common.php(74): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#5 /opt/lampp/htdocs/citypanther_landing/system/CodeIgniter.php(651): cache()
+#6 /opt/lampp/htdocs/citypanther_landing/system/CodeIgniter.php(321): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+#7 /opt/lampp/htdocs/citypanther_landing/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-07-13 21:10:46 --> Class 'CodeIgniter\Cache\CacheFactory' not found
+#0 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(263): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+#1 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(192): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#2 /opt/lampp/htdocs/citypanther_landing/system/Config/Services.php(105): CodeIgniter\Config\BaseService::getSharedInstance('cache', NULL)
+#3 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(263): CodeIgniter\Config\Services::cache()
+#4 /opt/lampp/htdocs/citypanther_landing/system/Common.php(74): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#5 /opt/lampp/htdocs/citypanther_landing/system/CodeIgniter.php(651): cache()
+#6 /opt/lampp/htdocs/citypanther_landing/system/CodeIgniter.php(321): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+#7 /opt/lampp/htdocs/citypanther_landing/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-07-13 21:10:47 --> Class 'CodeIgniter\Cache\CacheFactory' not found
+#0 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(263): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+#1 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(192): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#2 /opt/lampp/htdocs/citypanther_landing/system/Config/Services.php(105): CodeIgniter\Config\BaseService::getSharedInstance('cache', NULL)
+#3 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(263): CodeIgniter\Config\Services::cache()
+#4 /opt/lampp/htdocs/citypanther_landing/system/Common.php(74): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#5 /opt/lampp/htdocs/citypanther_landing/system/CodeIgniter.php(651): cache()
+#6 /opt/lampp/htdocs/citypanther_landing/system/CodeIgniter.php(321): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+#7 /opt/lampp/htdocs/citypanther_landing/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-07-13 21:10:48 --> Class 'CodeIgniter\Cache\CacheFactory' not found
+#0 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(263): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+#1 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(192): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#2 /opt/lampp/htdocs/citypanther_landing/system/Config/Services.php(105): CodeIgniter\Config\BaseService::getSharedInstance('cache', NULL)
+#3 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(263): CodeIgniter\Config\Services::cache()
+#4 /opt/lampp/htdocs/citypanther_landing/system/Common.php(74): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#5 /opt/lampp/htdocs/citypanther_landing/system/CodeIgniter.php(651): cache()
+#6 /opt/lampp/htdocs/citypanther_landing/system/CodeIgniter.php(321): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+#7 /opt/lampp/htdocs/citypanther_landing/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-07-13 21:10:48 --> Class 'CodeIgniter\Cache\CacheFactory' not found
+#0 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(263): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+#1 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(192): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#2 /opt/lampp/htdocs/citypanther_landing/system/Config/Services.php(105): CodeIgniter\Config\BaseService::getSharedInstance('cache', NULL)
+#3 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(263): CodeIgniter\Config\Services::cache()
+#4 /opt/lampp/htdocs/citypanther_landing/system/Common.php(74): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#5 /opt/lampp/htdocs/citypanther_landing/system/CodeIgniter.php(651): cache()
+#6 /opt/lampp/htdocs/citypanther_landing/system/CodeIgniter.php(321): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+#7 /opt/lampp/htdocs/citypanther_landing/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-07-13 21:10:54 --> Class 'CodeIgniter\Cache\CacheFactory' not found
+#0 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(263): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+#1 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(192): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#2 /opt/lampp/htdocs/citypanther_landing/system/Config/Services.php(105): CodeIgniter\Config\BaseService::getSharedInstance('cache', NULL)
+#3 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(263): CodeIgniter\Config\Services::cache()
+#4 /opt/lampp/htdocs/citypanther_landing/system/Common.php(74): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#5 /opt/lampp/htdocs/citypanther_landing/system/CodeIgniter.php(651): cache()
+#6 /opt/lampp/htdocs/citypanther_landing/system/CodeIgniter.php(321): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+#7 /opt/lampp/htdocs/citypanther_landing/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-07-13 21:12:37 --> Class 'CodeIgniter\Cache\CacheFactory' not found
+#0 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(263): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+#1 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(192): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#2 /opt/lampp/htdocs/citypanther_landing/system/Config/Services.php(105): CodeIgniter\Config\BaseService::getSharedInstance('cache', NULL)
+#3 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(263): CodeIgniter\Config\Services::cache()
+#4 /opt/lampp/htdocs/citypanther_landing/system/Common.php(74): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#5 /opt/lampp/htdocs/citypanther_landing/system/CodeIgniter.php(651): cache()
+#6 /opt/lampp/htdocs/citypanther_landing/system/CodeIgniter.php(321): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+#7 /opt/lampp/htdocs/citypanther_landing/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-07-13 21:12:37 --> Class 'CodeIgniter\Cache\CacheFactory' not found
+#0 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(263): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+#1 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(192): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#2 /opt/lampp/htdocs/citypanther_landing/system/Config/Services.php(105): CodeIgniter\Config\BaseService::getSharedInstance('cache', NULL)
+#3 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(263): CodeIgniter\Config\Services::cache()
+#4 /opt/lampp/htdocs/citypanther_landing/system/Common.php(74): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#5 /opt/lampp/htdocs/citypanther_landing/system/CodeIgniter.php(651): cache()
+#6 /opt/lampp/htdocs/citypanther_landing/system/CodeIgniter.php(321): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+#7 /opt/lampp/htdocs/citypanther_landing/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-07-13 21:12:38 --> Class 'CodeIgniter\Cache\CacheFactory' not found
+#0 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(263): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+#1 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(192): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#2 /opt/lampp/htdocs/citypanther_landing/system/Config/Services.php(105): CodeIgniter\Config\BaseService::getSharedInstance('cache', NULL)
+#3 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(263): CodeIgniter\Config\Services::cache()
+#4 /opt/lampp/htdocs/citypanther_landing/system/Common.php(74): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#5 /opt/lampp/htdocs/citypanther_landing/system/CodeIgniter.php(651): cache()
+#6 /opt/lampp/htdocs/citypanther_landing/system/CodeIgniter.php(321): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+#7 /opt/lampp/htdocs/citypanther_landing/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-07-13 21:12:39 --> Class 'CodeIgniter\Cache\CacheFactory' not found
+#0 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(263): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+#1 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(192): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#2 /opt/lampp/htdocs/citypanther_landing/system/Config/Services.php(105): CodeIgniter\Config\BaseService::getSharedInstance('cache', NULL)
+#3 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(263): CodeIgniter\Config\Services::cache()
+#4 /opt/lampp/htdocs/citypanther_landing/system/Common.php(74): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#5 /opt/lampp/htdocs/citypanther_landing/system/CodeIgniter.php(651): cache()
+#6 /opt/lampp/htdocs/citypanther_landing/system/CodeIgniter.php(321): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+#7 /opt/lampp/htdocs/citypanther_landing/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-07-13 21:13:55 --> Class 'CodeIgniter\Cache\CacheFactory' not found
+#0 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(263): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+#1 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(192): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#2 /opt/lampp/htdocs/citypanther_landing/system/Config/Services.php(105): CodeIgniter\Config\BaseService::getSharedInstance('cache', NULL)
+#3 /opt/lampp/htdocs/citypanther_landing/system/Config/BaseService.php(263): CodeIgniter\Config\Services::cache()
+#4 /opt/lampp/htdocs/citypanther_landing/system/Common.php(74): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#5 /opt/lampp/htdocs/citypanther_landing/system/CodeIgniter.php(651): cache()
+#6 /opt/lampp/htdocs/citypanther_landing/system/CodeIgniter.php(321): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+#7 /opt/lampp/htdocs/citypanther_landing/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
